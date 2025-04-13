@@ -1,1 +1,1 @@
-// Test commit 22
+var Variable1 = "hello world";
